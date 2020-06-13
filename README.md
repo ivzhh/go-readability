@@ -36,7 +36,7 @@ import (
 	"os"
 	"time"
 
-	readability "github.com/go-shiori/go-readability"
+	readability "github.com/ivzhh/go-readability"
 )
 
 var (
@@ -88,7 +88,7 @@ import (
 	"log"
 	"net/http"
 
-	readability "github.com/go-shiori/go-readability"
+	readability "github.com/ivzhh/go-readability"
 )
 
 var (
